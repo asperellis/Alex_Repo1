@@ -5,3 +5,4 @@ ADd from github
 
 feature 123
 squash me
+rebase me
